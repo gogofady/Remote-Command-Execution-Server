@@ -1,0 +1,5 @@
+2024-12-26 12:50:55,457 - INFO - Server is running and waiting for connections...
+2024-12-26 12:51:00,116 - INFO - Connection received from ('127.0.0.1', 56921)
+2024-12-26 12:51:07,686 - INFO - User 'george' authenticated successfully.
+2024-12-26 12:51:29,240 - INFO - User 'george' changed directory to C:\Users\PC\kmedoites
+2024-12-26 12:51:39,786 - INFO - Command executed by user 'george': whoami
